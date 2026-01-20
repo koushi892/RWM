@@ -1,0 +1,106 @@
+#Intro{
+    border: none;
+    padding: 10px;
+    margin-left: 2px;
+    background-color: rgb(230, 180, 16);
+    color: rgb(40, 40, 90);
+    font-size: medium;
+    font-weight: normal;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    box-shadow: 2px 2px 6px lightgray;
+}
+
+#Benefits{
+    background-color: rgb(240, 248, 220);
+    border: none;
+    padding: 10px;
+    margin: 2px;
+    color: rgb(80, 120, 40);
+    font-size: 20px;
+    font-style: normal;
+    text-align: justify;
+    line-height: 1.6;
+    box-shadow: 2px 2px 6px lightgray;
+}
+
+#RWH-Set-Up {
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(200, 220, 245, 0.8);
+    color: rgb(160, 120, 108);
+    font-size: medium;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+#Methods{
+    border: 2px solid rgb(180, 150, 200);
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(245, 235, 250);
+    color: rgb(75, 0, 130);
+    font-size: medium;
+    text-align: justify;
+    line-height: 1.6;
+    border-radius: 10px;
+}
+
+#Challenges{
+    border: 2px solid rgb(255, 170, 100);
+    padding: 10px;
+    margin: 2px;
+    background-color: rgb(255, 235, 215);
+    color: rgb(160, 80, 0);
+    font-size: medium;
+    text-align: justify;
+    line-height: 1.6;
+    border-radius: 10px;
+}
+
+#Conclusion{
+    background-color: rgb(60, 60, 60);
+    color: rgb(200, 230, 255);
+    font-size: medium;
+    padding: 10px;
+    text-align: justify;
+    line-height: 1.6;
+    border-radius: 8px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+nav{
+    text-align: center;
+}
+
+header h1{
+    font-size:xx-large;
+    color:rgb(72, 52, 182);
+    text-align: center;
+}
+header h4{
+    font-size:x-large;
+    color:rgb(72, 53, 167);
+    text-align: center;
+}
+
+body{
+    background-color: whitesmoke;
+    color:blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-size: medium;
+    color: brown;
+}
+button{
+    padding: 10px;
+}
